@@ -77,7 +77,7 @@
         <h1>Meerim Momunbaeva <br>Smm specialist </h1>
         <h3>Can change your vision about social marketing!</h3>
         <p> Start your business on the internet with me</p>
-        <img src="SMM.png"  style='width:200px;height:200px;  margin-left: 900px;'> 
+        <img src="https://marketairre.com/wp-content/uploads/2021/04/SMM.png"  style='width:200px;height:200px;  margin-left: 900px;'> 
 		<form action='https://github.com/momunbaevam/site/blob/main/style.css' target='_blank'>
         <button class="button button1">Github</button>
         </form>
